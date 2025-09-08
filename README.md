@@ -27,8 +27,8 @@ WSSC Water Internship – Worked on backend automation, configurations for PaloA
 - [GitHub](https://github.com/HassanA-A)  
 - Email: hassana1@umbc.edu  
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanA-A&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanA-A&layout=compact&theme=tokyonight)
 
 
 

@@ -9,9 +9,8 @@ WSSC Water Internship – Worked on backend automation, configurations for PaloA
 
 ### 🚀 Featured Projects
 - [SphereHub](https://www.sphere-hub.com/) – Student housing & roommate-matching startup (Next.js, Supabase, Tailwind).  
-- [AI Text Summarizer](https://github.com/username/summarizer) – Summarizes articles using HuggingFace + Flask + React.  
-- [Snakes & Ladders Game](https://github.com/username/snakes-ladders) – Classic board game built in C++ with linked lists.  
-- [Personal Finance Dashboard](https://github.com/username/finance-tracker) – Track expenses & visualize data with React + Chart.js.  
+  <!--[AI Text Summarizer](https://github.com/username/summarizer) – Summarizes articles using HuggingFace + Flask + React.  
+  <!-- [Personal Finance Dashboard](https://github.com/username/finance-tracker) – Track expenses & visualize data with React + Chart.js.  
 
 ### 📚 Currently Learning
 - Backend development (Supabase, PostgreSQL, APIs)  

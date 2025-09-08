@@ -9,8 +9,6 @@ WSSC Water Internship – Worked on backend automation, configurations for PaloA
 
 ### 🚀 Featured Projects
 - [SphereHub](https://www.sphere-hub.com/) – Student housing & roommate-matching startup (Next.js, Supabase, Tailwind).  
-  <!--[AI Text Summarizer](https://github.com/username/summarizer) – Summarizes articles using HuggingFace + Flask + React.  
-  <!-- [Personal Finance Dashboard](https://github.com/username/finance-tracker) – Track expenses & visualize data with React + Chart.js.  
 
 ### 📚 Currently Learning
 - Backend development (Supabase, PostgreSQL, APIs)  
@@ -24,7 +22,11 @@ WSSC Water Internship – Worked on backend automation, configurations for PaloA
 ### 📫 Contact
 - [LinkedIn](https://linkedin.com/in/hassan-ansari-ansari)  
 - [GitHub](https://github.com/HassanA-A)  
-- Email: hassana1@umbc.edu  
+- Email: hassana1@umbc.edu
+
+  <!--[AI Text Summarizer](https://github.com/username/summarizer) – Summarizes articles using HuggingFace + Flask + React.  
+  <!-- [Personal Finance Dashboard](https://github.com/username/finance-tracker) – Track expenses & visualize data with React + Chart.js.  
+
 <!--
 ![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanA-A&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanA-A&layout=compact&theme=tokyonight)
